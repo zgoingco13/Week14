@@ -1,0 +1,8 @@
+.star:hover {
+    cursor: pointer;
+    color: gray;
+};
+  
+.star {
+    font-size: 10rem;
+  }

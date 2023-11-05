@@ -1,0 +1,25 @@
+.movie-color {
+    background-color: rgba(45, 164, 211, 0.624);
+  }
+  
+  .movie-color-light {
+    background-color: rgba(140, 90, 5, 0.624);
+  }
+  
+  .movie-header {
+    height: 12rem;
+  }
+  
+  .movie-middle {
+    height: 100%;
+    overflow: auto; 
+  }
+  
+  .movie-restriction {
+    max-height: 3rem;
+  }
+  
+  .movie-img {
+    width: 100%;
+    max-width: 7rem;
+  }
